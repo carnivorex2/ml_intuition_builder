@@ -51,8 +51,8 @@ It must include:
 
 ### 3. Logging
 At minimum, log:
-- Training loss per epoch
-- Validation loss per epoch
+- Training loss
+- Validation loss
 - At least one metric (e.g., accuracy)
 
 Print clean, readable logs.
